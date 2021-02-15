@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 
 <br />
 
+<img align="right" alt="GIF" src="https://github.com/vmatviishyn/vmatviishyn/blob/master/memoji.gif" />
