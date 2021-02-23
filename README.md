@@ -50,7 +50,7 @@ const vitalii = {
 ### Contact me on
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitalii_Matviishyn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitalik-matviishyn-bb6a8696/)](https://www.linkedin.com/in/vitalik-matviishyn-bb6a8696/)
-[![Instagram Badge](https://img.shields.io/badge/-@vitaliimatviishyn-DC2F6F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matviishynnn/)](https://www.instagram.com/matviishynnn/)
+[![Instagram Badge](https://img.shields.io/badge/-@matviishynnn-DC2F6F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matviishynnn/)](https://www.instagram.com/matviishynnn/)
 [![Facebook Badge](https://img.shields.io/badge/-Vitalii_Matviishyn-0C8EF1?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/matviyishyn.v)](https://www.facebook.com/matviishynnn)
 
 
