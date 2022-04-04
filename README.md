@@ -1,5 +1,3 @@
-<h2> Hi there! Learn a little more about me...<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
-
 <img align="right" src="https://github.com/vmatviishyn/vmatviishyn/blob/main/memoji.gif" width="250" alt="GIF" />
 
 ### Tech & Tools Preference
