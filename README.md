@@ -2,24 +2,6 @@
 
 <img align="right" src="https://github.com/vmatviishyn/vmatviishyn/blob/main/memoji.gif" width="250" alt="GIF" />
 
-```javascript
-const vitalii = {
-    code: ['JS', 'TS'],
-    askMeAbout: ['Web development', 'Technologies', 'Photography', 'Design'],
-    technologies: {
-        mobileApp: ['Flutter'],
-        frontEnd: {
-            js: ['Angular', 'React', 'jQuery'],
-            css: ['Materialize', 'Bootstrap']
-        },
-        backEnd: {
-            js: ['Node', 'Express'],
-        },
-    },
-    architecture: ['SPA', 'PWA']
-};
-```
-
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
